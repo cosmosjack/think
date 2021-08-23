@@ -25,12 +25,12 @@ ThinkPHPV6.0版本由[亿速云](https://www.yisu.com/)独家赞助发布。
 ## 安装
 
 ~~~
-composer create-project topthink/think tp 6.0.*
+composer create-project oss_think/think tp 6.1.*
 ~~~
 
 如果需要更新框架使用
 ~~~
-composer update topthink/framework
+composer update oss_think/framework
 ~~~
 
 ## 文档
